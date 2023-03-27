@@ -11,10 +11,9 @@ programas con el uso de Árboles y Colas y Grafos que ayude al estudiante a reso
 la implementación de programas que necesiten este tipo de estructuras.
 
 2. COMPETENCIAS DE LOGRO DE APRENDIZAJES
-• Analizar las ventajas y desventajas, fortalezas y debilidades de la estructura de datos.
-• Implementar estructuras de programación utilizando un lenguaje de programación Java.
-• Trabajar en Grupo o equipo, aprender a ser un líder de grupo, y ser un analista orientado
-a una sana y honesta competencia.
+- Analizar las ventajas y desventajas, fortalezas y debilidades de la estructura de datos.
+- mplementar estructuras de programación utilizando un lenguaje de programación Java.
+- Trabajar en Grupo o equipo, aprender a ser un líder de grupo, y ser un analista orientado a una sana y honesta competencia.
 
 3. CRITERIOS DE DESEMPEÑO
 Aplica los conocimientos para desarrollar estructura de datos que tengan un plan de pruebas de
