@@ -1,4 +1,4 @@
-# estructura-de-datos-II
+# Estructura de Datos II
 Proyecto de Programacion:
 Integrantes:
 - David Pardo Cordova
